@@ -45,7 +45,7 @@ const HomePage = () => {
                         <div className="campus-images-container">
                             <img src="../images/admission.jpeg" alt="Vivekanand College Information" className="admission-image"/>
                             <img src="../images/campus.jpeg" alt="Vivekanand College Campus" className="campus-image"/>
-                            <a class="primary-btn" href="/Courses" data-discover="true">Explore Courese</a>
+                            <a className="primary-btn" href="/Courses" data-discover="true">Explore Courese</a>
                         </div>
                     </div>
                 </div>
