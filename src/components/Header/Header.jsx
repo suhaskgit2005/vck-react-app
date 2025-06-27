@@ -6,7 +6,7 @@ const Header = () => {
     <div className="header1">
     <header className="site-header">
       <div className="brand">
-       Vivekanand College
+       <a href="/home">Vivekanand College</a>
         </div>
       <nav className="nav-links">
         <Link to="/home" className="Links" style={{color:"white"}}>Home</Link>
